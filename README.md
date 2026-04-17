@@ -28,6 +28,9 @@ A modern and responsive To-Do List web application built using jQuery and localS
 2. Click "Add" or press Enter
 3. Manage tasks easily
 
+   <img width="850" height="457" alt="image" src="https://github.com/user-attachments/assets/47d125a0-ec0e-4032-83b1-a3668288702f" />
+
+
 ## 🌐 Future Improvements
 
 * Due dates
